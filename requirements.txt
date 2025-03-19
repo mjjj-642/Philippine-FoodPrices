@@ -3,3 +3,6 @@ matplotlib
 numpy
 holidays
 fredapi
+seaborn
+scipy
+scikit-learn
